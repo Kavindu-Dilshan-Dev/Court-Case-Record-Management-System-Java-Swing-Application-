@@ -1,4 +1,5 @@
 Court Case Record Management System
+
 A robust desktop application designed to streamline and manage court case records efficiently. This system was developed using Java Swing for the user interface, providing a seamless and intuitive experience.
 
 Features
