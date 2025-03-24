@@ -15,3 +15,6 @@ Database: SQL (MySQL)
 Database Tools: HeidiSQL, MySQL Workbench
 Connectivity: JDBC
 Reporting Tool: Jasper Studio
+
+# Refer The Document To Get More Details
+[1737911919025.pdf](https://github.com/user-attachments/files/19433808/1737911919025.pdf)
